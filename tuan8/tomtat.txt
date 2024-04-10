@@ -1,0 +1,10 @@
+CRUD 
+ - PDO
+    thuoc tinh: hang, bien: PDO::FETCH_OBJ, PDO::FETCH_ASSOC,
+    query: thuc thi 1 sql, tra ve 1 object PDOstatement
+    PDOstatement:
+        - rowCount()-> tra ve so dong bi tac dong hoac so dong trong sql select
+        - fetchAll()-> tat ca cac dong du lieu sql 
+        - fetch()->1 dong 
+ extends trong OOP
+ 
